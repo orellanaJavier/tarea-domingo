@@ -2,7 +2,7 @@
   <div class="hello">
     <h1 v-formato="'mayuscula'">{{ msg }}</h1>
     
- <p>yo soy mi propio gefe</p>
+ <p>directivas personalizadas</p>
     
     
   
